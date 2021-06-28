@@ -1,0 +1,14 @@
+﻿  BSS.cpp
+c:\users\itus9\desktop\redes_aa1_nuestra\project1\bss\bss.cpp(263): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\itus9\desktop\redes_aa1_nuestra\project1\bss\bss.cpp(264): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\itus9\desktop\redes_aa1_nuestra\project1\bss\bss.cpp(318): warning C4267: 'argumento': conversión de 'size_t' a 'const int'; posible pérdida de datos
+c:\users\itus9\desktop\redes_aa1_nuestra\project1\bss\bss.cpp(491): warning C4267: 'argumento': conversión de 'size_t' a 'const int'; posible pérdida de datos
+c:\users\itus9\desktop\redes_aa1_nuestra\project1\bss\bss.cpp(497): warning C4267: 'argumento': conversión de 'size_t' a 'const int'; posible pérdida de datos
+c:\users\itus9\desktop\redes_aa1_nuestra\project1\bss\bss.cpp(506): warning C4267: 'argumento': conversión de 'size_t' a 'const int'; posible pérdida de datos
+c:\users\itus9\desktop\redes_aa1_nuestra\project1\bss\bss.cpp(519): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\itus9\desktop\redes_aa1_nuestra\project1\bss\bss.cpp(612): warning C4267: 'argumento': conversión de 'size_t' a 'const int'; posible pérdida de datos
+c:\users\itus9\desktop\redes_aa1_nuestra\project1\bss\bss.cpp(657): warning C4267: 'argumento': conversión de 'size_t' a 'const int'; posible pérdida de datos
+c:\users\itus9\desktop\redes_aa1_nuestra\project1\bss\bss.cpp(695): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\itus9\desktop\redes_aa1_nuestra\project1\bss\bss.cpp(713): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+c:\users\itus9\desktop\redes_aa1_nuestra\project1\bss\bss.cpp(146): warning C4715: 'ConversorString': no todas las rutas de acceso de control devuelven un valor
+  BSS.vcxproj -> C:\Users\itus9\Desktop\Redes_AA1_Nuestra\Project1\x64\Debug\BSS.exe
